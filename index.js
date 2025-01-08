@@ -19,7 +19,7 @@ const spriteHeight = 256
 let framex = 0;
 let frameY = 0;
 let gameFrame = 0;
-const staggerFrames = 8;
+const staggerFrames = 15;
 
 function animate(){
     ctx.clearRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
@@ -47,7 +47,7 @@ const spriteHeight2 = 256
 let framex2 = 0;
 let frameY2 = 0;
 let gameFrame2 = 0;
-const staggerFrames2 = 15;
+const staggerFrames2 = 30;
 
 function animate2(){
     
