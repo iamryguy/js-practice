@@ -1,0 +1,57 @@
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 256px;
+    height: 256px;
+}
+
+#canvas2 {
+    border: 5px solid black;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 256px;
+    height: 256px;
+}
+
+#canvas3 {
+    border: 5px solid black;
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 256px;
+    height: 256px;
+}
+
+#helloWorldButton {
+ display: block;
+ background-color: aqua;
+ border-radius: 6px;
+ margin: auto;
+}
+
+.helloWorld {
+    display: block;
+    margin: auto;
+}
+
+
+#helloWorldButton:hover {
+ background-color: rgb(0, 129, 129);
+ box-shadow: 8 8 8 8;
+}
+
+.hidden {
+    display: none;
+}
+
+#dipsy {
+    display: block;
+    max-width: 200px;
+    margin: auto;
+}
