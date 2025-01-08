@@ -1,7 +1,7 @@
 #canvas1 {
     border: 5px solid black;
     position: absolute;
-    top: 1000px;
+    top: 400px;
     left: 50%;
     
     width: 256px;
@@ -11,7 +11,7 @@
 #canvas2 {
     border: 5px solid black;
     position: absolute;
-    top: 1400px;
+    top: 700px;
     left: 50%;
     width: 256px;
     height: 256px;
@@ -20,7 +20,7 @@
 #canvas3 {
     border: 5px solid black;
     position: absolute;
-    top: 1800px;
+    top: 1000px;
     left: 50%;
     width: 256px;
     height: 256px;
