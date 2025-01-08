@@ -1,7 +1,7 @@
 #canvas1 {
     border: 5px solid black;
     position: absolute;
-    top: 50%;
+    top: 300px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 256px;
@@ -11,7 +11,7 @@
 #canvas2 {
     border: 5px solid black;
     position: absolute;
-    top: 90%;
+    top: 600px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 256px;
@@ -21,7 +21,7 @@
 #canvas3 {
     border: 5px solid black;
     position: absolute;
-    top: 130%;
+    top: 900px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 256px;
