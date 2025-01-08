@@ -21,15 +21,15 @@ html, body {
 }
 
 #canvas1 {
-    top: 400px;
+    top: 300px;
 }
 
 #canvas2 {
-    top: 700px;
+    top: 600px;
 }
 
 #canvas3 {
-    top: 1000px;
+    top: 900px;
 }
 
 #helloWorldButton {
